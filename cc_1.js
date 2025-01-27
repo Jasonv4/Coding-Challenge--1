@@ -30,3 +30,9 @@ console.log(accountBalance)
 let customerName = "Jose Lopez";
 let welcomeMessage = "Welcome," + customerName + "to our site" + "!"
 console.log(welcomeMessage)
+
+//Task 5 Boolean Data Type
+let isLoggedIn = true
+if (isLoggedIn ) {
+    console.log("Access Granted")
+} else {console.log("Access Denied Try Again")}
