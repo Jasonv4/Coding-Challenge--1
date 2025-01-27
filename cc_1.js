@@ -25,3 +25,8 @@ accountBalance /= 2
 console.log(accountBalance)
 accountBalance *3 
 console.log(accountBalance) 
+
+//Task 4 String Data Type
+let customerName = "Jose Lopez";
+let welcomeMessage = "Welcome," + customerName + "to our site" + "!"
+console.log(welcomeMessage)
